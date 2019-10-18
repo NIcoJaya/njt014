@@ -1,0 +1,1539 @@
+{
+  "settings": {
+    "name": "Site-10-14_1208",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#252525"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.2",
+    "siteFonts": [],
+    "uniqCompNum": 51,
+    "versionPublish": "4.11.2",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "NJT014.NET",
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1188.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "NJT014.NET",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PAKET INTERNET</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Promo NJT014.NET</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-7"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2"
+        },
+        {
+          "_params": {
+            "token": "15207750708.727bfe1.8df608ccff1746eba94993d36190a071",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "5",
+            "rows": "1",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": "0",
+            "fullWidth": false,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-6"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15841.67665294072!2d106.932405727019!3d-6.959780569549346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6847da9e15e441%3A0x23c481d37cd1ee0d!2sNJT014.NET!5e0!3m2!1sid!2sid!4v1571032755621!5m2!1sid!2sid\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-8"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-a"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "title": "Paket Internet",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-d"
+        },
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "STANDARD",
+          "currency1": "Rp",
+          "price1": "165.000",
+          "period1": "per bulan",
+          "list1": "<ul><li><b>Baik digunakan untuk 1-4 komputer atau gadget</b></li><li><b>Speed Up To 5 Mbps</b></li><li><b>Unlimited Bandwidth</b></li><li><b>IP Dynamic Private</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DAFTAR SEKARANG</a>",
+          "title2": "BUSINESS",
+          "currency2": "Rp",
+          "price2": "287.500<br>",
+          "period2": "per bulan",
+          "list2": "<ul><li><b>Baik digunakan untuk 1-8 komputer atau gadget\n</b></li><li><b>Speed Up To 10 Mbps\n</b></li><li><b>Unlimited Bandwidth\n</b></li><li><b>IP Dynamic Private</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DAFTAR SEKARANG</a>",
+          "title3": "PREMIUM",
+          "currency3": "Rp",
+          "price3": "380.000",
+          "period3": "per bulan",
+          "list3": "<ul><li><b>Baik digunakan untuk 1-12 komputer atau gadget\n</b></li><li><b>Speed Up To 15 Mbps\n</b></li><li><b>Unlimited Bandwidth\n</b></li><li><b>IP Dynamic Private</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DAFTAR SEKARANG</a>",
+          "title4": "ULTIMATE",
+          "currency4": "Rp",
+          "price4": "475.000",
+          "period4": "per bulan",
+          "list4": "<ul><li><b>Baik digunakan untuk 1-18 komputer atau gadget\n</b></li><li><b>Speed Up To 20 Mbps\n</b></li><li><b>Unlimited Bandwidth\n</b></li><li><b>IP Dynamic Private</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DAFTAR SEKARANG</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-g",
+          "_styles": {
+            "SPAN": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            "SUP": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "title": "Registration",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-h"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-j"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "title": "Tentang Kami",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-l"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "27",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "pin",
+              "family": "Mobirise2",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title": "NJT014.NET",
+          "text": "<p>NJT014.NET adalah usaha yang memeberikan layanan akses internet Unlimited tanpa Quota dengan harga terjangkau, kami menyediakan akses internet dengan penelusuran internet yang aman dari akses situs-situs pornografi, judi dan lain-lainnya.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-n"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "title": "Syarat &amp; Ketentuan",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-o"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Syarat &amp; Ketentuan",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "title": "Bantuan &amp; Dukungan",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "bookmark",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "REGISTRATION",
+          "caption1": "Klik <a href=\"page1.html#pricing-table1-g\">di sini</a> untuk melakukan pendaftaran layanan paket internet NJT014.NET, isi data dengan benar pada form yang ada, jika selesai klik sumbit",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "Mobirise2",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "CUSTOMER SERVICE",
+          "caption2": "Untuk dapat berbicara dengan kami langsung silahkan klik Obrolan / Live Chat di pojok kanan bawah, isi from yang ada lalu klik mulai obrolan.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title3": "PAYMENT",
+          "caption3": "<p>BRI &nbsp; : 4399-01-002512-509<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/AN ANNI SIMAMORA<br>BCA : 3390487940<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /AN NICO JAYA TAMPUBOLON</p>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-14",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-r"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-t"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "title": "Promo NJT014.NET",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-x"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<br><br><br><br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-11"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-z"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "NJT014.NET | Penyedia Layanan Internet & IPTV",
+        "title": "Thank You",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Lainnya</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://cuciwangi.epizy.com\" target=\"_blank\">Cuci Wangi Sukabumi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Tentang Kami</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Bantuan Dan Dukungan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\">Live Chat</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbrib-wifi mbr-iconfont mbr-iconfont-btn\"></span>NJT014.NET</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-17"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1400.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "page7.html#image2-1b",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-401x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://goo.gl/maps/4aSM98cYjYnhohYN9",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "text1": "<p><strong>Alamat</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Perum Baros Kencana Blok 7,</a><br><a href=\"https://goo.gl/maps/4aSM98cYjYnhohYN9\" target=\"_blank\">Pirus 5, Sukabumi, Jawa Barat</a></p>",
+          "text2": "<p><b>Kontak</b><b><br></b>Email &nbsp;: <a href=\"mailto:njt014.net@gmail.com\">njt014.net@gmail.com</a><br>\nPhone : <a href=\"tel:081288659881\">0812-8865-9881</a><br>IG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;: <a href=\"https://www.instagram.com/njt014net/\" target=\"_blank\">njt014net</a></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"page4.html\">Syarat &amp; Ketentuan</a></li><li><a href=\"page3.html\">Tentang Kami</a></li><li><a href=\"https://tawk.to/chat/5cbddb6cc1fe2560f3fff7e5/default\" target=\"_blank\">Live Chat</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-18"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><a href=\"page7.html#contacts1-y\"></a>Copyright (c) 2019 <a href=\"index.html\">NJT014.NET</a>. <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"index.html#contacts1-a\">Privacy Policy</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-19"
+        }
+      ]
+    }
+  }
+}
